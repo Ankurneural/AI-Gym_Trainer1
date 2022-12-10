@@ -11,7 +11,19 @@ An assistant to help you with the gym excersises
   * ankur@sjsu.edu
   * 015266316
   * MS AI
-
+* Pranai Ramineni
+  * pranairamineni@sjsu.edu
+  * 016664297
+  * MS AI
+* Drona Jagad Kaushik
+  * dronakaushik.jagad@sjsu.edu
+  * 016651206
+  * MS AI
+* Nemil Panchamia
+  * nemilnilesh.panchamia@sjsu.edu
+  * 016145272
+  * MS AI
+  
 ## Team Coordinator
 PLaceHolder
 
@@ -19,7 +31,6 @@ PLaceHolder
 
 Clone the repositry and set up the environment:
 ```
-git clone https://github.com/shrishashegde/AI-Gym-Trainer.git
 conda create ai_gym_trainer
 pip install -r requirements.txt
 ```
@@ -86,6 +97,8 @@ Utilizing the two video's frame and features to extract temporal match kernel fe
 Software Tools and Hardware:
 Due to the sheer volume of the data, we have utilized HPC resources to store, process and develop the solution in conjunction with drives and local compute resources.
 All of the development is done in Python and Jupyter notebooks.
+
+![Alt text](rep_net_achi.jpg?raw=true "Repnet Architecture")
 
 Results:
 Our results include output video files from our solutions.
