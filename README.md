@@ -47,7 +47,7 @@ python src\main.py -t <excercise_type> -vs <video_src_file> -vo <video_output_fi
 ### Yolo v7
 1) To annotate using yolo code:
      * Go to the https://drive.google.com/drive/search?q=owner:shrisha.hegde%40sjsu.edu 
-         -- CMPE 258 
+         -- CMPE 257 
             -- Yolo v7 folder 
               --unzip yolo_v7.zip 
      * Install the required packages 
